@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98111476",
+    "project_id": "employee-tracker-600b3",
+    "storage_bucket": "employee-tracker-600b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98111476:android:b5495c07df81bacf2033a1",
+        "android_client_info": {
+          "package_name": "com.example.employee_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU3SgzecKKkGX2fxdv1XMblRUCGHEHs-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
